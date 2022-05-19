@@ -11,6 +11,6 @@ MLP-COO is a DLBCL classification model with high accuracy (99.67%) that is buil
 
 ## **Running the Classifier**
 Download all the attached files and place them under same directory.  
-Before running the model, kindly prepare input gene expression data as given in [Example.csv](Example.csv).   
+Before running the model, kindly prepare input gene expression data as given in [Example_input.csv](Example_input.csv).   
 Load the pickle file (binary files containing our trained model) using python script.  
 The output file will be automatically saved in working directory as MLP-COO.output.txt containing Sample ID and predicted class.
